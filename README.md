@@ -5,3 +5,5 @@ zero acceleration and non uniform linear motion  with variable  velocity non zer
 velocity   acceleration. An  example  of linear motion is an athlete running 100m along a straight track.
 
 
+
+
